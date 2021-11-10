@@ -6,3 +6,5 @@ git commit
 git rmも学習したよ
 
 git statusを習ったよ
+
+git diffの練習をします。
