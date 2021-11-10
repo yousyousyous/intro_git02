@@ -4,3 +4,5 @@ gitの練習をします。
 git add
 git commit
 git rmも学習したよ
+
+git statusを習ったよ
